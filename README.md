@@ -1,2 +1,0 @@
-# SelfBot
-Masih uji coba
